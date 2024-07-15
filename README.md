@@ -37,7 +37,7 @@ yarn start
 
 | Parameter | Type     | Description                           |
 | :-------- | :------- | :------------------------------------ |
-| `id`      | `string` | **Required**. SKU of product to fetch |
+| `sku`     | `string` | **Required**. SKU of product to fetch |
 
 #### Get product by SKU
 
@@ -47,4 +47,4 @@ yarn start
 
 | Parameter | Type     | Description                                                                 |
 | :-------- | :------- | :-------------------------------------------------------------------------- |
-| `id`      | `string` | **Required**. SKU of product to fetch variation stock and price information |
+| `sku`     | `string` | **Required**. SKU of product to fetch variation stock and price information |
